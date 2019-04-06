@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+    web1:
+        image: oguzhalitt/spring-static
+        container_name: web1
+        ports:
+            - "9000:9000"
+
+    web2:
+        image: oguzhalitt/spring-ui
+        container_name: web2
+        ports:
+            - "9001:9000"
+
+    haproxy:
+        build: ./haproxy
+        container_name: haproxy
+        ports:
+            - "80:9000"
