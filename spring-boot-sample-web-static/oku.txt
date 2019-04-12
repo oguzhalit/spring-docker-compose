@@ -1,0 +1,13 @@
+Docker indir
+Docker version kontrol et
+pom.xml düzenle
+java yükle
+javac -jar /target/.jar ile derle kontrol et
+Docker file yaz, bunu yazarken docker hubdan yardım al
+pom.xml'e dockerda image ismini yaz
+aplication.settings port ayarı yap
+docker build -f Dockerfile -t docker-spring-boot .
+oluşturulmasını bekle
+docker images yaz ve oluştruldugunu kontrol et
+docker run -p 9000:9000 ile port numarsını belirler
+docker run -p 9000:9000 image-name ile çalıştırılmış olucak

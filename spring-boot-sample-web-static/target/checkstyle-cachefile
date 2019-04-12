@@ -1,0 +1,5 @@
+#Tue Apr 02 13:15:06 EET 2019
+configuration*?=2D88FB24F807F83AEDF354AC268F22ECE36B0956
+/home/o10k/docker-deneme/spring-boot/spring-boot-samples/spring-boot-sample-web-static/src/test/java/sample/web/staticcontent/SampleWebStaticApplicationTests.java=1554199693495
+module-resource*?\:file\:/home/o10k/docker-deneme/spring-boot/spring-boot-samples/spring-boot-sample-web-static/../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/home/o10k/docker-deneme/spring-boot/spring-boot-samples/spring-boot-sample-web-static/src/main/java/sample/web/staticcontent/SampleWebStaticApplication.java=1554199693495

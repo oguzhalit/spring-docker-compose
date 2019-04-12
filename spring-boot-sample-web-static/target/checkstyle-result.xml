@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.18">
+<file name="/home/o10k/docker-deneme/spring-boot/spring-boot-samples/spring-boot-sample-web-static/src/main/java/sample/web/staticcontent/SampleWebStaticApplication.java">
+</file>
+<file name="/home/o10k/docker-deneme/spring-boot/spring-boot-samples/spring-boot-sample-web-static/src/test/java/sample/web/staticcontent/SampleWebStaticApplicationTests.java">
+</file>
+</checkstyle>
