@@ -1,0 +1,6 @@
+sample/web/ui/InMemoryMessageRepository.class
+sample/web/ui/Message.class
+sample/web/ui/SampleWebUiApplication$1.class
+sample/web/ui/MessageRepository.class
+sample/web/ui/mvc/MessageController.class
+sample/web/ui/SampleWebUiApplication.class

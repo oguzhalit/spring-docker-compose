@@ -1,0 +1,5 @@
+/home/o10k/staj2/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java
+/home/o10k/staj2/spring-boot-sample-web-ui/src/main/java/sample/web/ui/Message.java
+/home/o10k/staj2/spring-boot-sample-web-ui/src/main/java/sample/web/ui/mvc/MessageController.java
+/home/o10k/staj2/spring-boot-sample-web-ui/src/main/java/sample/web/ui/MessageRepository.java
+/home/o10k/staj2/spring-boot-sample-web-ui/src/main/java/sample/web/ui/InMemoryMessageRepository.java
